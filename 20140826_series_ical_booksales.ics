@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES:location/Donelson
+CATEGORIES:series/Virtuoso Showcase Classical Guitar
+CATEGORIES:series/Artober
+CATEGORIES:series/Hispanic Heritage Month
+CATEGORIES:series/Wishing Chair Productions
+CATEGORIES:Locations
+CATEGORIES:Series
+CONTACT;X-BEDEWORK-UID=2a3e9efe-334bc29f-0133-c66b54c5-00007f4c:Donelson Library
+DESCRIPTION:The Best Book Store in Town!  Come shop our selection of thousands of titles - books, CDs, DVDs, audio books and more - children's, popular fiction, young adult - hard cover, soft cover, paperbacks.  Prices from 50-cents to $2.00!  Check us out on the Second Saturday of every month at the Donelson Branch Library (Basement), 2315 Lebanon Road.
+DTSTART;TZID=America/Chicago:20141224T100000
+DTEND;TZID=America/Chicago:20141224T140000
+LOCATION;X-BEDEWORK-UID=2a3e9efe-334bc29f-0133-60db9ea8-00003131:Donelson
+SUMMARY:Friends of the Library - Second Saturday Book Store
+UID:20140826-000008-DONELSON-201412241000@LIBRARY.NASHVILLE.ORG
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Donelson:/user/agrp_calsuite-MainCampus/Locations/Donelson
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Virtuoso Showcase Classical Guitar:/user/agrp_calsuite-MainCampus/Series/Virtuoso Showcase Classical Guitar
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Artober:/user/agrp_calsuite-MainCampus/Series/Artober
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Hispanic Heritage Month:/user/agrp_calsuite-MainCampus/Series/Hispanic Heritage Month
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Wishing Chair Productions:/user/agrp_calsuite-MainCampus/Series/Wishing Chair Productions
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:location/Donelson
+CATEGORIES:series/Virtuoso Showcase Classical Guitar
+CATEGORIES:series/Artober
+CATEGORIES:series/Hispanic Heritage Month
+CATEGORIES:series/Wishing Chair Productions
+CATEGORIES:Locations
+CATEGORIES:Series
+CONTACT;X-BEDEWORK-UID=2a3e9efe-334bc29f-0133-c66b54c5-00007f4c:Donelson Library
+DESCRIPTION:The Best Book Store in Town!  Come shop our selection of thousands of titles - books, CDs, DVDs, audio books and more - children's, popular fiction, young adult - hard cover, soft cover, paperbacks.  Prices from 50-cents to $2.00!  Check us out on the Second Saturday of every month at the Donelson Branch Library (Basement), 2315 Lebanon Road.
+DTSTART;TZID=America/Chicago:20141225T100000
+DTEND;TZID=America/Chicago:20141225T140000
+LOCATION;X-BEDEWORK-UID=2a3e9efe-334bc29f-0133-60db9ea8-00003131:Donelson
+SUMMARY:Friends of the Library - Second Saturday Book Store
+UID:20140826-000009-DONELSON-201412251000@LIBRARY.NASHVILLE.ORG
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Donelson:/user/agrp_calsuite-MainCampus/Locations/Donelson
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Virtuoso Showcase Classical Guitar:/user/agrp_calsuite-MainCampus/Series/Virtuoso Showcase Classical Guitar
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Artober:/user/agrp_calsuite-MainCampus/Series/Artober
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Hispanic Heritage Month:/user/agrp_calsuite-MainCampus/Series/Hispanic Heritage Month
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Wishing Chair Productions:/user/agrp_calsuite-MainCampus/Series/Wishing Chair Productions
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:location/Donelson
+CATEGORIES:series/Virtuoso Showcase Classical Guitar
+CATEGORIES:series/Artober
+CATEGORIES:series/Hispanic Heritage Month
+CATEGORIES:series/Wishing Chair Productions
+CATEGORIES:Locations
+CATEGORIES:Series
+CONTACT;X-BEDEWORK-UID=2a3e9efe-334bc29f-0133-c66b54c5-00007f4c:Donelson Library
+DESCRIPTION:The Best Book Store in Town!  Come shop our selection of thousands of titles - books, CDs, DVDs, audio books and more - children's, popular fiction, young adult - hard cover, soft cover, paperbacks.  Prices from 50-cents to $2.00!  Check us out on the Second Saturday of every month at the Donelson Branch Library (Basement), 2315 Lebanon Road.
+DTSTART;TZID=America/Chicago:20141231T100000
+DTEND;TZID=America/Chicago:20141231T140000
+LOCATION;X-BEDEWORK-UID=2a3e9efe-334bc29f-0133-60db9ea8-00003131:Donelson
+SUMMARY:Friends of the Library - Second Saturday Book Store
+UID:20140826-000010-DONELSON-201412311000@LIBRARY.NASHVILLE.ORG
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Donelson:/user/agrp_calsuite-MainCampus/Locations/Donelson
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Virtuoso Showcase Classical Guitar:/user/agrp_calsuite-MainCampus/Series/Virtuoso Showcase Classical Guitar
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Artober:/user/agrp_calsuite-MainCampus/Series/Artober
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Hispanic Heritage Month:/user/agrp_calsuite-MainCampus/Series/Hispanic Heritage Month
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Wishing Chair Productions:/user/agrp_calsuite-MainCampus/Series/Wishing Chair Productions
+END:VEVENT
+END:VCALENDAR
