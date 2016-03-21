@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES:Locations
+CATEGORIES:ESL
+CATEGORIES:location/Edmondson Pike
+CONTACT;X-BEDEWORK-UID=2a3e9efe-334bc29f-0133-c667e6e0-00007f3f:Edmondson Pike Library
+DESCRIPTION:Study for your GED while increasing your English language skills. This class is offered in partnership with TN College of Applied Technology. Classes are free, but registration is required. Please call 615-435-5579 to register.
+DTSTART;TZID=America/Chicago:20140908T100000
+DTEND;TZID=America/Chicago:20140908T130000
+RRULE:FREQ=WEEKLY;COUNT=22;WKST=SU;BYDAY=MO,WE
+EXDATE:20141013T100000
+LOCATION;X-BEDEWORK-UID=00f1fcec-0f0c4c90-010f-0c4d6762-00000004:Edmondson Pike
+SUMMARY:GED for EL by TCAT
+UID:20140827-000003-EDMONDSONPIKE-201409081000@LIBRARY.NASHVILLE.ORG
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=ESL:/user/agrp_calsuite-MainCampus/ESL
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Edmondson Pike:/user/agrp_calsuite-MainCampus/Edmondson Pike
+END:VEVENT
+END:VCALENDAR
